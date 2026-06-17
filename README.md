@@ -1,9 +1,9 @@
 ## Hi there 👋
-# Carlton Waiti — Data & Business Analyst
+# Carlton Waiti - Data & Business Analyst
 
 **Turning raw business data into decisions that move the needle.**
 
-I work across the full analytics stack — from writing production SQL against audited financial data to building executive Power BI dashboards that non-technical stakeholders actually navigate themselves. My projects are built on real business problems: revenue segmentation, customer cohort decay, logistics failure rates, IFRS-adjusted financial trends. Not Kaggle demos.
+I work across the full analytics stack - from writing production SQL against audited financial data to building executive Power BI dashboards that non-technical stakeholders actually navigate themselves. My projects are built on real business problems: revenue segmentation, customer cohort decay, logistics failure rates, IFRS-adjusted financial trends. Not Kaggle demos.
 
 Based in Nairobi. Open to remote international analyst roles and Nairobi-based positions.
 
@@ -55,7 +55,7 @@ Collected and managed structured field data on UNICEF and ILO projects using Kob
 
 ## Background
 
-- BSc Economics and Finance — Kenyatta University (2026)
+- BSc Economics — Kenyatta University (2026)
 - Field data analyst — UNICEF Kenya and ILO project work
 - Finance and operations — Flekc Freight and Logistics
 - Revenue analysis — Truce Lounge
