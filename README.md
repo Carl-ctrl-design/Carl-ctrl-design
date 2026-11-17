@@ -1,74 +1,154 @@
-## Hi there 👋
-# Carlton Waiti - Data & Business Analyst
 
-**Turning raw business data into decisions that move the needle.**
+<div align="center">
 
-I work across the full analytics stack - from writing production SQL against audited financial data to building executive Power BI dashboards that non-technical stakeholders actually navigate themselves. My projects are built on real business problems: revenue segmentation, customer cohort decay, logistics failure rates, IFRS-adjusted financial trends. Not Kaggle demos.
+# CARLTON WAITI
 
-Based in Nairobi. Open to remote international analyst roles and Nairobi-based positions.
+### Financial Analyst | Economics, Data & Technology
 
----
+**Financial analysis · Business performance · Data & Business Intelligence**
 
-## What I bring
+Nairobi, Kenya · Open to relevant opportunities in Kenya and internationally
 
-**Analytics engineering**
-I write clean, documented SQL — window functions, CTEs, subqueries, performance tuning. My Safaricom analysis pulled directly from EY-audited annual reports (FY2015–FY2025) and applied IFRS 15, IFRS 16, and IAS 29 hyperinflation adjustments before a single query ran. That is the standard I hold myself to.
+[Portfolio](https://carl-ctrl-design.github.io/) · [LinkedIn](https://www.linkedin.com/in/carlton-waiti/) · [Email](mailto:carltonwaiti150@gmail.com)
 
-**Business intelligence**
-I build Power BI dashboards with proper data models, 20+ DAX measures, and bookmark navigation — designed for executives who need answers in under 30 seconds. My Olist dashboard connects live to PostgreSQL 17. My Safaricom dashboard handles a decade of multi-segment financial data with consistent KPI logic across every page.
-
-**Financial and economic analysis**
-BSc Economics and Finance. I understand what P&L, variance analysis, revenue mix, and margin compression actually mean for a business — not just how to calculate them. I've done financial reporting and reconciliation in logistics (Flekc Freight) and revenue analysis in hospitality (Truce Lounge).
-
-**Field data and research**
-Collected and managed structured field data on UNICEF and ILO projects using KoboToolbox and ODK. I know the difference between data that looks clean and data that actually is.
+</div>
 
 ---
 
-## Core skills
+## Profile
 
-| Domain | Tools and capabilities |
-|---|---|
-| SQL | PostgreSQL 17, window functions, CTEs, cohort queries, performance optimisation |
-| Business Intelligence | Power BI, DAX, data modelling, KPI design, bookmark navigation |
-| Spreadsheet analytics | Excel — PivotTables, Power Query, financial models, KPI dashboards |
-| Data storytelling | Translating analysis into clear business recommendations |
-| Financial analysis | Variance analysis, revenue segmentation, IFRS treatment, reconciliation |
-| Field research | KoboToolbox, ODK, stakeholder engagement, structured data collection |
-| Automation | n8n workflow automation, API integrations |
-| Web | HTML, CSS, JavaScript — functional, not decorative |
-| In progress | Python (Pandas, Matplotlib), Microsoft PL-300 |
+I analyse how businesses perform, where financial and operational results are changing, and what the underlying numbers mean for decision-making.
+
+My work brings together **economics, financial analysis and data technology**. I use financial information, structured datasets and analytical tools to investigate business performance, examine trends, identify risks and communicate findings.
+
+My projects range from analysing a decade of Safaricom financial performance using PostgreSQL and Power BI to investigating customer behaviour, commercial performance and logistics outcomes in e-commerce data.
+
+I am particularly interested in financial analysis, corporate finance, investment research, business performance and analytical systems.
 
 ---
 
-## Projects
+## Areas of Work
 
-| Project | Stack | What it does |
+### 01 — Financial & Investment Analysis
+
+Financial statement analysis, revenue and cost drivers, profitability, cash flow, budgeting, variance analysis, financial modelling and valuation research.
+
+### 02 — Business Intelligence & Analytics
+
+Translating business questions into analytical models, measurable KPIs, SQL queries, interactive dashboards and evidence-based recommendations.
+
+### 03 — Data & Analytical Engineering
+
+Working with relational databases, structured data, SQL transformations, data validation and reproducible analytical workflows.
+
+### 04 — Research & Data Quality
+
+Field data operations, survey quality assurance, structured data collection, response monitoring, validation and analytical reporting.
+
+---
+
+## Selected Projects
+
+Projects built around financial, commercial and operational questions.
+
+| Project | Technology | Focus |
 |---|---|---|
-| [Safaricom Financial Analysis](https://github.com/Carl-ctrl-design/safaricom-sql-analysis) | PostgreSQL 17 | FY2015–2025 analysis from primary EY-audited data. IFRS 15/16 adjustments, revenue segmentation, margin trend analysis |
-| [Safaricom Power BI Dashboard](https://github.com/Carl-ctrl-design/safaricom-powerbi-dashboard) | Power BI, DAX | 20 DAX measures, 5-page executive report, bookmark navigation across a decade of financial data |
-| [Olist SQL Analysis](https://github.com/Carl-ctrl-design/olist-sql-analysis-project) | PostgreSQL 17 | 100K+ e-commerce transactions. Cohort retention, logistics performance, seller and category segmentation |
-| [Olist Power BI Dashboard](https://github.com/Carl-ctrl-design/olist-powerbi-dashboard) | Power BI, DAX | Live PostgreSQL 17 connection, revenue, customer behaviour, and logistics KPIs across 5 report pages |
-| [Superstore Sales Analysis](https://github.com/Carl-ctrl-design/superstore-sales-analysis) | Excel | Power Query pipeline, PivotTable analysis, KPI dashboard, ranked business recommendations |
+| **[Safaricom — Financial Performance Dashboard](https://github.com/Carl-ctrl-design/safaricom-powerbi-dashboard)** | Power BI · DAX · PostgreSQL | Five-page dashboard examining FY2015–FY2025 financial performance, revenue composition, profitability, cash flow and management guidance. |
+| **[Safaricom — SQL Financial Analysis](https://github.com/Carl-ctrl-design/safaricom_sql_financial_analysis)** | PostgreSQL 17 · SQL | Structured financial data and SQL analysis of a decade of company performance, trends and financial indicators. |
+| **[Olist — E-commerce SQL Analysis](https://github.com/Carl-ctrl-design/olist-sql-analysis-project)** | PostgreSQL 17 · SQL | Analysis of 100K+ e-commerce orders, customer behaviour, retention, seller performance, product categories and delivery outcomes. |
+| **[Olist — Power BI Dashboard](https://github.com/Carl-ctrl-design/olist-powerbi-dashboard)** | Power BI · DAX · PostgreSQL | Five-page commercial and operational dashboard covering revenue, customers, reviews, sellers and logistics performance. |
+| **[Superstore — Sales & Profitability Analysis](https://github.com/Carl-ctrl-design/superstore-sales-analysis)** | Excel · Power Query · PivotTables | Retail performance analysis examining sales, discounting, profitability, regional results and customer segments. |
+
+*Each project repository contains its own methodology, analysis and supporting documentation.*
 
 ---
 
-## Background
+## Technical Toolkit
 
-- BSc Economics — Kenyatta University (2026)
-- Field data analyst — UNICEF Kenya and ILO project work
-- Finance and operations — Flekc Freight and Logistics
-- Revenue analysis — Truce Lounge
-- Freelance web development and data analytics
-
----
-
-## Currently building
-
-- **Life OS** — Personal management app in React and Supabase (Goals, Finances, Habits, Spiritual, Fitness modules)
-- **Dira** — AI-powered SME operations platform targeting African small businesses, NGOs, and county governments
-- Deepening Python for data analysis and automation with n8n
+| Area | Tools & Methods |
+|---|---|
+| **SQL & Databases** | PostgreSQL, SQL, CTEs, joins, subqueries, window functions and aggregations |
+| **Business Intelligence** | Power BI, DAX, data modelling, KPI design and dashboard navigation |
+| **Spreadsheet Analysis** | Excel, Power Query, PivotTables, XLOOKUP, SUMIFS and financial analysis |
+| **Programming & Analysis** | Python, pandas and Matplotlib |
+| **Finance Operations** | QuickBooks, Odoo, reconciliations and budget variance reporting |
+| **Research & Statistics** | KoboToolbox, ODK, Stata and SPSS |
+| **Web & Development** | HTML, CSS, JavaScript and GitHub |
+| **Automation** | Exploring n8n, workflow automation and API integrations |
 
 ---
 
-[Portfolio](https://carl-ctrl-design.github.io/C.Waiti) · [LinkedIn](https://www.linkedin.com/in/carlton-waiti) · carltonwaiti150@gmail.com
+## Professional Experience
+
+**Independent Financial Analyst | Finance & Analytics Consultant**  
+*July 2024 – Present*
+
+Independent analytical work involving financial and business research, company analysis and practical portfolio projects.
+
+**Finance Account Associate | Flekc Freight & Logistics**  
+*December 2023 – August 2024*
+
+- Maintained bookkeeping records and supported account reconciliations.
+- Prepared weekly budget variance reports for management.
+- Monitored expenditure and followed up on outstanding payments.
+- Supported financial record organisation and audit readiness.
+- Worked with QuickBooks and Odoo.
+
+**Research Quality Assurance & Field Operations | TIFA Research project work**
+
+- Coordinated and monitored field data collection activities.
+- Supervised approximately 5–7 field enumerators.
+- Supported ODK workflows, interviewer coordination and reporting.
+- Monitored response rates, duplicate submissions, invalid records, GPS information, timestamps and survey logic.
+- Prepared fieldwork updates and supported data-quality checks and interviewer training.
+
+---
+
+## Education & Certifications
+
+**Bachelor of Economics**  
+Kenyatta University · 2022–2026
+
+**Google Data Analytics Professional Certificate**  
+Google · Coursera
+
+**Budgeting for Sustainable Development Goals**  
+United Nations Institute for Training and Research (UNITAR)
+
+---
+
+## Currently Developing
+
+**Portfolio Build 2026**
+
+A structured body of work focused on developing stronger financial and analytical capability through practical projects:
+
+1. Investment analysis, financial modelling and valuation.
+2. Commercial analysis and business value creation.
+3. Financial investigation and earnings quality.
+4. Reliable data and analytical systems.
+5. Financial risk and decision support.
+6. AI-assisted research and analytical workflows.
+
+I am also deepening my Python skills and exploring workflow automation with n8n.
+
+---
+
+## Analytical Approach
+
+I start with the question, not the tool.
+
+I establish what the available evidence can support, structure and validate the data, document the methodology, test the analysis and communicate the implications.
+
+I distinguish reported facts from calculations, assumptions, estimates and recommendations. The objective is not simply to produce a dashboard or a query, but to produce analysis that can be understood, examined and used.
+
+---
+
+<div align="center">
+
+**Carlton Waiti**  
+Financial Analyst | Economics, Data & Technology
+
+[Portfolio](https://carl-ctrl-design.github.io/) · [LinkedIn](https://www.linkedin.com/in/carlton-waiti/)
+
+</div>
